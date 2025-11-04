@@ -4,4 +4,4 @@ import numpy as np
  print(x)
  # membuat array 2D (matriks)
  m = np.array([[1, 2], [3, 4]])
- print(m)
+ print (m)
