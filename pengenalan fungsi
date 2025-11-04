@@ -1,0 +1,10 @@
+ Fungsi (def) ->  digunakan untuk membungkus logika
+ kode agar mudah dipanggil ulang
+
+ Struktur Umum ->  def nama_fungsi(parameter):   
+# blok kode
+ return hasil
+
+  contoh dasar ->  def sapa(nama):   
+print(“ Halo,”, nama)
+ sapa(“Mahasiswa TI”)
