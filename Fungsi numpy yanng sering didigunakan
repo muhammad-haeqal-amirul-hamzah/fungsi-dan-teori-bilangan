@@ -1,0 +1,6 @@
+import numpy as np
+
+ print(np.arange(0, 10, 2))  # deret dengan step
+print(np.linspace(0, 1, 5))  # 5 titik antara 0 dan 1
+print(np.zeros(5))           # array berisi 0
+print(np.ones(3))            # array berisi 1
